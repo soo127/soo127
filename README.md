@@ -15,25 +15,11 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 방문해주셔서 감사합니다.
-저는 Swift 언어를 활용하여 iOS 앱 개발을 하고 있는, 개발자 이상수라고 합니다.
-
-아직 부족한 부분도 많고 지칠 때도 종종 있지만, 맡은 기능에 끝까지 매달려 구현해냈을 때의 경험과 성취감으로 성장하고 있습니다.
+Swift 언어를 활용하여 iOS 앱 개발을 하고 있는, 개발자 이상수의 깃허브입니다.
 
 ---
 
 ## 🚀 Projects
-
-### NowToDo - SwiftUI
-- iOS 기본 앱인 '미리 알림'을 모델로 하는 간단한 알림 앱입니다.
-- 할 일 추가 / 마감일 저장 / 푸시 알림 설정이 가능합니다.
-
-* **MVVM Pattern**
-* **UserDefaults:** 앱을 껐다 켜도 투두 설정 내역은 유지되어야 하기에 사용
-* **UserNotifications**
-
-🔗 Repo: https://github.com/soo127/NowToDo
-
----
 
 ### AskWeather — SwiftUI
 - iOS 기본 날씨 앱의 핵심 UI/UX를 벤치마크하여 제작한 날씨앱입니다.
@@ -70,8 +56,19 @@ Here are some ideas to get you started:
 * **SwiftLint**
 * **UserDefaults:** 보드의 크기 별 최고 점수를 불러올 수 있어야 하므로 사용
 
-
 🔗 Repo: https://github.com/soo127/Tile2048
+
+---
+
+### NowToDo - SwiftUI
+- iOS 기본 앱인 '미리 알림'을 모델로 하는 간단한 알림 앱입니다.
+- 할 일 추가 / 마감일 저장 / 푸시 알림 설정이 가능합니다.
+
+* **MVVM Pattern**
+* **UserDefaults:** 앱을 껐다 켜도 투두 설정 내역은 유지되어야 하기에 사용
+* **UserNotifications**
+
+🔗 Repo: https://github.com/soo127/NowToDo
 
 ---
 
